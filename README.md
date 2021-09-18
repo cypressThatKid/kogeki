@@ -1,6 +1,6 @@
 # Kogeki | The Futurisitc Botnet
 ![Botnet Image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftruxgoservers.com%2Fblog%2Fwp-content%2Fuploads%2F2021%2F04%2Fbotnet.png&f=1&nofb=1 "KOGEKI")
-##### The first-ever malware-less botnet that can send DDoS Attacks, Mass Mail, Run Reverse Shells and MORE!
+### The first-ever malware-less botnet that can send DDoS Attacks, Mass Mail, Run Reverse Shells and MORE!
 
 # Disclaimer
 By downloading this software, you agree that I am held harmless for any damages, losses, etc.. that is caused by this software. This was made for educational purposes and is not meant to cause harm to any computer/network.
@@ -34,5 +34,10 @@ In order to scan bots to the botnet, follow these simple steps:
 # Functions
 Kogeki has many functions that can be listed by typing "help" in the command prompt (when Kogeki is running).
 
-
+# Screenshots
+  
+![](images/kogeki1)
+![](images/kogeki2)
+![](images/kogeki3)
+![](images/kogeki4)
 
