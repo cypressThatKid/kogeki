@@ -1,0 +1,7 @@
+colorama
+sockets
+subprocess
+pexpect
+getpass
+signal
+argparse
