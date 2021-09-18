@@ -5,12 +5,14 @@
 # Disclaimer
 By downloading this software, you agree that I am held harmless for any damages, losses, etc.. that is caused by this software. This was made for educational purposes and is not meant to cause harm to any computer/network.
 
+The login feature is just a feature and is not intended to provide security. To ensure security, make sure you are using SSH keys or a strong password to make sure that a threat actor could not gain access to the server running Kogeki!
+
 # Special Features
 Kogeki is not like any other botnets, and it does not have a port that you connect through. Instead, the CNC can be ran from a Python script to prevent un-authorized access.
 
 # How Are Bots Infected
 
-Unlike other botnets, Kogeki does not plant malware on the zombie computers. Instead, it connects to the zombies each time the botnet is started (via SSH) to avoid leaving "fingerprints" that could lead back to the CNC.
+Unlike other botnets, Kogeki does not plant malware on the zombie computers. Instead, it connects to the zombies each time the botnet is started (via SSH) to avoid leaving trails that could lead back to the CNC.
 
 # Setup
 
