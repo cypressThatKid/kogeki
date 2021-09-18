@@ -36,8 +36,8 @@ Kogeki has many functions that can be listed by typing "help" in the command pro
 
 # Screenshots
   
-![](images/kogeki1)
-![](images/kogeki2)
-![](images/kogeki3)
-![](images/kogeki4)
+![](images/kogeki1.png)
+![](images/kogeki2.png)
+![](images/kogeki3.png)
+![](images/kogeki4.png)
 
