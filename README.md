@@ -1,4 +1,4 @@
-# KOGEKI
+# Kogeki | The Futurisitc Botnet
 ![Botnet Image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftruxgoservers.com%2Fblog%2Fwp-content%2Fuploads%2F2021%2F04%2Fbotnet.png&f=1&nofb=1 "KOGEKI")
 ##### The first-ever malware-less botnet that can send DDoS Attacks, Mass Mail, Run Reverse Shells and MORE!
 
@@ -25,8 +25,8 @@ In order to scan bots to the botnet, follow these simple steps:
 1. Collect the hosts that you have PERMISSION to infect in a list.
 2. Brute force (or write) the login information to those hosts in this format: <username>:<password>:<host>
 3. Save the brute force hosts with their login information to a file named "bruted.txt"
-4. Run the "python3 bruted.py" and input the name of your bruted file
-5. Run 'python3 compcheck.py kogitte.kogeki'. This will validate your bruted list to make sure that all the hosts are using SSH and not Telnet, commands can be ran and the login credentials work
+4. Run the "python3 scanning/bruted.py" and input the name of your bruted file
+5. Run 'python3 scanning/compcheck.py kogitte.kogeki'. This will validate your bruted list to make sure that all the hosts are using SSH and not Telnet, commands can be ran and the login credentials work
 6. Run the botnet (python3 botnet.py) and your bots will load on startup.
 
 # Functions
